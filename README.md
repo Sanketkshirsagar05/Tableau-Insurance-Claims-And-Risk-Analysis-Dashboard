@@ -48,8 +48,7 @@ It uncovers relationships between **claim frequency**, **household income**, **c
 
 ---
 
-## 📬 Access  
-If you want full access or the Tableau workbook file, contact me on:  
+## 📬 Contact  
 - **📧 Email:** sanketkshirsagar05@gmail.com  
 - **🔗 LinkedIn:** [Sanket Kshirsagar](https://www.linkedin.com/in/sanketkshirsagar05)  
 
