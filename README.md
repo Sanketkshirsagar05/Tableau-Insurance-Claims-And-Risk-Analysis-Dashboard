@@ -4,6 +4,12 @@
 This Tableau dashboard provides a detailed analysis of **insurance claims**, **policyholder demographics**, and **customer insights**.  
 It uncovers relationships between **claim frequency**, **household income**, **car details**, and **demographic attributes**, enabling data-driven decisions for **risk assessment** and **policy optimization**.  
 
+
+---
+
+## 🖼️ Dashboard Screenshot  
+![Dashboard Screenshot](https://github.com/Sanketkshirsagar05/Tableau-Insurance-Claims-And-Risk-Analysis-Dashboard/blob/main/Dashboard%20Screenshot.png)  
+
 ---
 
 ## 🎯 Objectives  
